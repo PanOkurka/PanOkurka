@@ -8,3 +8,5 @@ Rn I working on some project's for Atropol! [Atropol Dev. Site](https://dev.atro
 ## My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=PanOkurka&show_icons=true&bg_color=040f0f&title_color=2f97c1&icon_color=f5b700&text_color=0cf574">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanOkurka&bg_color=040f0f&title_color=2f97c1&icon_color=f5b700&text_color=0cf574">

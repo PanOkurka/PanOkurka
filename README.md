@@ -13,7 +13,8 @@ of course here on GitHub are not every project shown because I don't wanna that 
 
 <img src="https://github-readme-stats.vercel.app/api?username=PanOkurka&show_icons=true&bg_color=040f0f&title_color=2f97c1&icon_color=f5b700&text_color=0cf574">
 
-<img src="github-readme-stats-gamma-six-65.vercel.app/api/top-langs/?username=PanOkurka&bg_color=040f0f&title_color=2f97c1&icon_color=f5b700&text_color=0cf574">
+<img src="https://github-readme-stats-panokurka007.vercel.app/api/top-langs/?username=PanOkurka&bg_color=040f0f&title_color=2f97c1&icon_color=f5b700&text_color=0cf574">
+
 
 ## My social networks
 

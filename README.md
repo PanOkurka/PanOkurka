@@ -20,6 +20,6 @@ of course here on GitHub are not every project shown because I don't wanna that 
 
 [Instagram](https://instagram.com/panokurka_official)<br>
 [Twitter](https://twitter.com/Pan_Okurka)<br>
-Discord: Pan_Okurka#8080 <br>
+Discord: Pan_Okurka#8577 <br>
 [Youtube](https://www.youtube.com/channel/UCZh3wq3_2u575sbXoJm5BiQ)
 <br>

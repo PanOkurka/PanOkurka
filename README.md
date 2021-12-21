@@ -4,7 +4,6 @@ I am student and developer in JS, TS , HTML, CSS, NodeJS, PHP, ReactJS, Dockerfi
 I working on my discord bot! If u wanna see some features from the bot u can join my [discord](https://dsc.gg/cucumber-dev).<br>
 [My bot website](https://baby-cucumber.com)
 
-Rn I working on some project's for Atropol!<br>
 More project's comming soon!
 
 of course here on GitHub are not every project shown because I don't wanna that someone steal my code and use it for himself.

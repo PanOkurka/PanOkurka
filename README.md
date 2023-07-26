@@ -14,7 +14,7 @@ of course here on GitHub are not every project shown because I don't wanna that 
 
 <img src="https://github-readme-stats-panokurka007.vercel.app/api/top-langs/?username=PanOkurka&langs_count=8&bg_color=040f0f&title_color=2f97c1&icon_color=f5b700&text_color=0cf574">
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="panokurka" data-color="#40DCA5" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/panokurka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ## My social networks

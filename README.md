@@ -11,7 +11,7 @@ I've been coding for about 6 years. For now, I'm working on a few big projects, 
 * ✉️  You can contact me at [okurka@baby-cucumber.com](mailto:okurka@baby-cucumber.com)
 * 🚀  I'm currently working on [Server Managment](http://atropol.eu)
 * 🧠  I'm learning Qemu, Proxmox, Python
-* ⚡  I like cat's nad red panda's
+* ⚡  I like cat's and red panda's
 
 <a href="https://www.github.com/PanOkurka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PanOkurka?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.x.com/Pan_Okurka" target="_blank" rel="noreferrer"><img
